@@ -14,9 +14,9 @@ N/A
 
 ## Usage
 
-    ```md
-    ![screenshots](assets/images/screenshot.jpg)
-    ```
+
+![alt text](assets/images/screenshot.jpg "my screenshot")
+
 
 ## Credits
 
