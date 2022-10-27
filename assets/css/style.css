@@ -86,6 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* adide div to replace the 3 setting */
 aside div {
     margin-bottom: 32px;
     color: #ffffff;
@@ -107,6 +108,7 @@ aside div {
     color: #ffffff;
 } */
 
+/* adide div h3 to replace the 3 setting */
 aside div h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -127,6 +129,7 @@ aside div h3 {
     text-align: center;
 } */
 
+/* adide div img to replace the 3 setting */
 aside div img {
     display: block;
     margin: 10px auto;
@@ -151,6 +154,7 @@ aside div img {
     max-width: 150px;
 } */
 
+/* section div to replace the 3 setting */
 section div {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +191,7 @@ section div {
     color: #ffffff;
 } */
 
+/* section div img to replace the 3 setting */
 section div img {
     max-height: 200px;
 }
@@ -203,6 +208,7 @@ section div img {
     max-height: 200px;
 } */
 
+/* section div h2 to replace the 3 setting */
 section div h2 {
     margin-bottom: 20px;
     font-size: 36px;
